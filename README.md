@@ -1,5 +1,3 @@
-# **Predict Covid-19**
-
 # 📔**Predict Covid-19**
 Tool : Google Collab, Tableau, Ms.Excel <br>
 Programming Language : Python <br>
