@@ -1,11 +1,11 @@
 # 📔**Predict Covid-19**
-Tool : Google Collab, Tableau, Ms.Excel <br>
+Tool : Google Collab <br>
 Programming Language : Python <br>
 Libraries : <br>
 Visualization : <br>
 Source Dataset : ASEAN Data Science Explorers <br>
 
-# 📂 Stage 0: Business Understanding
+# 📂 STAGE 0: Business Understanding
 ## Background Project :
 Karena .
 
@@ -15,14 +15,22 @@ Karena .
 
 ## Goals :
 maneuhejrk
+
+## Method :
+Cross-Industry Standard Process for Data Mining (CRISP-DM)
 <br>
 
-# 📂 Stage 1: Exploratory Data Analysis
+# 📂 STAGE 1: Data Understanding
 ## Data Overview :
 
 ## Data Quality Assesment :
 
 ## Data Exploration :
 
-# 📂 Stage 2: Business Recommendation
+# 📂 STAGE 2: Data Preparation
 
+# 📂 STAGE 3: Modelling
+
+# 📂 STAGE 4: Evaluation
+
+# 📂 STAGE 5: Deployment
