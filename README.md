@@ -1,4 +1,4 @@
-# 📔**Predict Covid-19**
+# 📔**Covid-19**
 Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
