@@ -3,7 +3,7 @@ Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
 Visualization : Looker & Notebook<br>
-Source Dataset : ASEAN Data Science Explorers <br>
+Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
 ## Tugas :
