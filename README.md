@@ -1,24 +1,16 @@
 # 📔**Predict Covid-19**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : ASEAN Data Science Explorers <br>
 
 # 📂 STAGE 0: Business Understanding
-## Background Project :
-Karena .
-
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+Analisis Deskriptif dan Pelacakan Epidemiologis Global.
 
 ## Goals :
-maneuhejrk
-
-## Method :
-Cross-Industry Standard Process for Data Mining (CRISP-DM)
-<br>
+Memantau secara real-time penyebaran virus, morbiditas, dan mortalitas per country dan who_region, serta menganalisis tren dan laju perubahan mingguan untuk mendukung pengambilan keputusan kebijakan kesehatan publik.
 
 # 📂 STAGE 1: Data Understanding
 ## Data Overview :
@@ -27,10 +19,4 @@ Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 ## Data Exploration :
 
-# 📂 STAGE 2: Data Preparation
-
-# 📂 STAGE 3: Modelling
-
-# 📂 STAGE 4: Evaluation
-
-# 📂 STAGE 5: Deployment
+# 📂 STAGE 2: Recommendation
